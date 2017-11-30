@@ -1,0 +1,57 @@
+微信：
+微信商户平台（内部测试用）
+微信支付商户号：1299754801
+微信公众账号平台
+商户平台登录帐号：1299754801@1299754801
+商户平台登录密码：657459
+申请对应的公众号：百胜软件（baisonsoft）
+公众号APPID：wx4dac2dee635acb25
+商户号：1299754801
+商户支付密钥：37EF2a7E86697d11Fd41f31C384e5216
+公众帐号secert：c12f276da59c9d2f605faab913131908
+
+客户微信
+公众号APPID：wxc4484d9ab1375b80 
+商户号：1232973702
+商户支付密钥：vvEELd78SMBJnDHHyG8CQkHIFvjjqzo3
+公众帐号secert：6db956681c4dddaa2f249096ae41875e
+
+
+
+微信商户平台服务商账户密码（正式帐号，请谨慎使用）
+商户平台登录账号：1311326201@1311326201
+公司服务商公众平台对应appid：wx4db4b3159e5764cf
+APi密钥：xbXRedOgiaezksqBfyQI6igyMVGRuFvc ---对应商户资料中的“商户支付密钥(KEY)”
+
+微信支付子账户商户号（关联在以上服务商帐号下，供测试用）
+1424585302
+商户平台登录帐号
+1424585302@1424585302
+商户平台登录密码
+471992
+
+
+
+
+公司测试账户
+
+支付宝：
+appid：2016050501365934（自己）
+pid：2088012105607934（自己）
+
+口碑地址：https://doc.open.alipay.com/
+支付宝商户登录账号：baison1@baisonmail.com
+登录密码：baiSON50184188
+
+  
+口碑商户
+APPID:2016081601757670
+PID:2016081601757670(可随便填)
+
+门店审核时需要的图片（门店内景图片2）XV-NO_-cQmObRUwAzryw-AAAACMAAQQD
+门店应用执照图片 hq75GqjuQMK3vVGKyizv3QAAACMAAQED
+门店营业执照编号 310101000234082
+门店审核时需要的图片(必须反映真实的门店情况，审核才能够通过) ZtCB2J7aS5OuFdszEaMzcAAAACMAAQQD
+门店审核时需要的图片(门店内景图片1) QaLNcFOwStKLdYuWEyfHlAAAACMAAQQD
+门店首图 _m_6vjTQT8q_qZGaGq0ENQAAACMAAQQD
+ 
