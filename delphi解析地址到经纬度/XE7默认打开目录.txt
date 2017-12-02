@@ -1,0 +1,3 @@
+D:\нр╣днд╣╣\Embarcadero\Studio\Projects\Win32\Debug
+
+.\$(Platform)\$(Config)

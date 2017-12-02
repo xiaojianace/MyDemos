@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.150,=D:\我的文档\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.633,D:\我的文档\Embarcadero\Studio\Projects\Project1.dproj=D:\delphi demo\解析地址到经纬度\Address.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.086,D:\我的文档\Embarcadero\Studio\Projects\Unit1.dfm=D:\delphi demo\解析地址到经纬度\Fm_Address.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.086,D:\我的文档\Embarcadero\Studio\Projects\Unit1.pas=D:\delphi demo\解析地址到经纬度\Fm_Address.pas</Transaction>
+  </Transactions>
+</BorlandProject>
